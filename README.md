@@ -1,2 +1,0 @@
-# cafeteria
-Projeto Cafeteria
